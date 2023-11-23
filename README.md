@@ -55,7 +55,7 @@
         <h2>Портфолио</h2>
         <div class="paintings">
             <div class="painting">
-                <img src="[path/to/painting1.jpg](https://github.com/TorchWoold/Anuchin/blob/main/01%20-%20%D0%91%D1%80%D0%B8%D0%B3%20%D0%9D%D0%90%D0%94%D0%95%D0%96%D0%94%D0%90%20(1991%20-%202004).jpg)" alt="Живопись 1">
+![foto1](https://github.com/TorchWoold/Anuchin/blob/main/33%20-%20%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D1%8F.%20%D0%97%D0%B8%D0%BC%D0%B0.%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%20(2013).jpg)
                 <p>Подпись к картине 1</p>
             </div>
             <div class="painting">
